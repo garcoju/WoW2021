@@ -4,7 +4,9 @@ Desafío #WoW2021 #PowerBI
 http://www.workout-wednesday.com/power-bi-challenges/
 
 W01 - Semana 1 WoW2021-w01.pbix
+
 http://www.workout-wednesday.com/pbi-2021-w01/
+
 ***Lectura recomendada: https://twitter.com/alexdupler/status/1346711889493934081?s=20 Solución propuesta Alex Dupler
 
 - Conexión origen de datos data.world
