@@ -15,5 +15,6 @@ http://www.workout-wednesday.com/pbi-2021-w01/
 - Modelo de datos (estrella)
 
 W02 - Semana 2 WoW2021-w02.pbix
+
 http://www.workout-wednesday.com/pbi-2021-w02/
 
