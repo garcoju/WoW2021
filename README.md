@@ -3,7 +3,7 @@ Desafío #WoW2021 #PowerBI
 
 http://www.workout-wednesday.com/power-bi-challenges/
 
-W01 - Semana 1 WoW2021-w01.pbix
+W01 - Semana 1 WoW2021-w01.pbix | Conexión y modelado de datos
 
 http://www.workout-wednesday.com/pbi-2021-w01/
 
@@ -14,7 +14,7 @@ http://www.workout-wednesday.com/pbi-2021-w01/
 - Limpiar dimensiones (conference y school) ***Buenas prácticas: https://radacad.com/remove-duplicate-doesnt-work-in-power-query-for-power-bi-here-is-the-solution
 - Modelo de datos (estrella)
 
-W02 - Semana 2 WoW2021-w02.pbix
+W02 - Semana 2 WoW2021-w02.pbix | Informe KPI básico
 
 http://www.workout-wednesday.com/pbi-2021-w02/
 
