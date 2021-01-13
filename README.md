@@ -23,7 +23,7 @@ http://www.workout-wednesday.com/pbi-2021-w02/
 - Tabla calculada (Calendario) en DAX ***Patrón estándar DAX SQLBI: https://www.daxpatterns.com/standard-time-related-calculations/
 - Modelo de datos (Relación Calendario - finances)
 - Tabla contenedor de medidas
-- Medidas DAX: Ingresos Totales, Gastos Totales, Beneficios Totales
+- Medidas DAX: Ingresos Totales, Gastos Totales, Beneficios Totales ***Buenas prácticas: Ocultar campos total_revenues, total_expenses y Total Profits ¡¡¡No queremos medidas implícitas!!!
 - Visualización: Tarjeta, Gráfico de líneas, Gráfico de barras ***Formato condicional en tarjeta y gráfico de barras de Beneficios Totales
 - Agregar fondo de página (Resumen.png) ***Buenas prácticas: https://data-mozart.com/how-i-speed-up-my-power-bi-report-5x/
 
