@@ -35,5 +35,5 @@ http://www.workout-wednesday.com/pbi-2021-w03/
 - Interacción slicer (año)
 - Interacción gráficos de barra (ingresos, gastos y beneficios)
 - Visualización: Gráficos de líneas -> Gráficos de área
-- Visualización: Colores (ingresos, gastos y beneficios)
+- Visualización: Colores (ingresos y gastos)
 
