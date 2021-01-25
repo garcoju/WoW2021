@@ -8,9 +8,10 @@ W01 - Semana 1 WoW2021-w01.pbix | Conexión y modelado de datos
 http://www.workout-wednesday.com/pbi-2021-w01/
 
 ***Lectura recomendada: https://twitter.com/alexdupler/status/1346711889493934081?s=20 Solución propuesta Alex Dupler
+                        https://datawarehouse.es/2015/desatascar-la-cargas-hechos-claves-subrogadas.html
 
 - Conexión origen de datos data.world
-- Clave subrogada dimensión conference. Sustituir clave de texto por entero (fbs_conference en finances)
+- Clave subrogada dimensión conference. Sustituir clave de texto por entero (fbs_conference en finances) ***Ventajas claves subrogadas: https://bmegias.wordpress.com/2011/01/31/%C2%BFclaves-primarias-naturales-o-subrogadas/
 - Limpiar dimensiones (conference y school) ***Buenas prácticas: https://radacad.com/remove-duplicate-doesnt-work-in-power-query-for-power-bi-here-is-the-solution
 - Modelo de datos (estrella) ***Buenas prácticas: Ocultar campos de relación (Ejemplo: Conference ID)
 
