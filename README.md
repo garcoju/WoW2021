@@ -27,3 +27,11 @@ http://www.workout-wednesday.com/pbi-2021-w02/
 - Visualización: Tarjeta, Gráfico de líneas, Gráfico de barras ***Formato condicional en tarjeta y gráfico de barras de Beneficios Totales
 - Agregar fondo de página (Resumen.png) ***Buenas prácticas: https://data-mozart.com/how-i-speed-up-my-power-bi-report-5x/
 
+W03 - Semana 3 WoW2021-w03.pbix | Interactividad informe
+
+http://www.workout-wednesday.com/pbi-2021-w03/
+
+- Segmentación (año)
+- Interacción slicer (año)
+- Interacción gráficos de barra (ingresos, gastos y beneficios)
+
