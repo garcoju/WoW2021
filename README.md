@@ -31,7 +31,7 @@ W03 - Semana 3 WoW2021-w03.pbix | Interactividad informe
 
 http://www.workout-wednesday.com/pbi-2021-w03/
 
-- Segmentación (año)
+- Segmentación (año) ***Tip: Orden descendente (es más habitual consultar datos recientes que históricos)
 - Interacción slicer (año)
 - Interacción gráficos de barra (ingresos, gastos y beneficios)
 - Visualización: Gráficos de líneas -> Gráficos de área
