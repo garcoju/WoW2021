@@ -45,6 +45,7 @@ http://www.workout-wednesday.com/pbi-2021-w04/
 ***Lectura recomendada: https://docs.microsoft.com/es-es/power-bi/guidance/dax-selectedvalue
 
 - Página Detalle School (duplicado página Resumen) ***Tip: Ocultar páginas de detalle (navegación vía Drill Trough)
+- Acción botón "Back". Modificar acción por defecto "Atrás" por "Navegación de páginas" = 'Resumen' 
 - Agregar fondo de página (Conference.png)
 - Visualización: Gráficos de barras por School (cambio eje Y y título del gráfico)
 - Medidas DAX: Conference seleccionada y Año seleccionado. ***Tip: Ocultar medida año para selección múltiple o sin selección. https://www.sqlbi.com/articles/using-the-selectedvalue-function-in-dax/
