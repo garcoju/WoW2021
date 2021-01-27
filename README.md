@@ -50,6 +50,7 @@ http://www.workout-wednesday.com/pbi-2021-w04/
 - Medidas DAX: Conference seleccionada y Año seleccionado. ***Tip: Ocultar medida año para selección múltiple o sin selección. https://www.sqlbi.com/articles/using-the-selectedvalue-function-in-dax/
 - Agrupar medidas DAX en carpeta 0 - Filtros ***Tip: "Un sitio para cada cosa y cada cosa en su sitio". Prueba a tener un modelo con muchas medidas 🚀
 - Visualización: Tarjetas (Conference y Año)
+- Visualización: Botón "Back" 🏛 ***🎩: Utilizar emojis para mostrar en lugar de texto en los botones. Combinación teclas Windows + "."
 
 NOTA: Requerimiento NO sincronizar slicer año entre página resumen y página detalle
 ***¿Por qué NO hacerlo?
