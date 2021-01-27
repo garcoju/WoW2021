@@ -44,7 +44,7 @@ http://www.workout-wednesday.com/pbi-2021-w04/
 
 ***Lectura recomendada: https://docs.microsoft.com/es-es/power-bi/guidance/dax-selectedvalue
 
-- Página Detalle School (duplicado página Resumen) ***Tip: Ocultar páginas de detalle (navegación vía Drill Trough)
+- Página Detalle School (duplicado página Resumen) 
 - Acción botón "Back". Modificar acción por defecto "Atrás" por "Navegación de páginas" = 'Resumen' 
 - Agregar fondo de página (Conference.png)
 - Visualización: Gráficos de barras por School (cambio eje Y y título del gráfico)
@@ -54,9 +54,8 @@ http://www.workout-wednesday.com/pbi-2021-w04/
 - Visualización: Botón "Back" 🏛 ***🎩: Utilizar emojis para mostrar en lugar de texto en los botones. Combinación teclas Windows + "."
 
 NOTA: Requerimiento NO sincronizar slicer año entre página resumen y página detalle
-***¿Por qué NO hacerlo?
-Mostrar el slicer año en la página detalle resulta confuso al no disponer de sincronización. El usuario puede ver la página detalle filtrada por uno o varios años y el slicer año seguiría mostrando "Todas". Ver página "Detalle School" del informe
-La sincronización del slicer año proporcionaría al usuario informacion del año o años seleccionados en la página detalle, evitando la necesidad de la medida DAX año seleccionado, reduciendo el número de consultas y visuales mostrados en la página y mejorando el rendimiento del informe. Ver página "Detalle School Propuesta"
+Mostrar el slicer año en la página detalle puede resultar confuso al no disponer de sincronización. El usuario puede ver la página detalle filtrada por uno o varios años y el slicer año seguiría mostrando "Todas". Ver página "Detalle School" del informe
+La sincronización del slicer año proporcionaría al usuario información del año o años seleccionados en la página detalle, evitando la necesidad de la medida DAX año seleccionado, reduciendo el número de consultas y visuales mostrados en la página y mejorando el rendimiento del informe. Ver página "Detalle School Propuesta"
 
 NOTA: Gráficos de líneas en página detalle
 En caso de navegar a la página detalle filtrando por 1 sólo año, los gráficos de líneas pueden quedar reducidos a un único punto de datos, mostrando la misma información que las tarjetas. Recomendación: Analizar las necesidades/operativa de los usuarios
