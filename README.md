@@ -38,3 +38,23 @@ http://www.workout-wednesday.com/pbi-2021-w03/
 - Visualización: Gráficos de líneas -> Gráficos de área
 - Visualización: Colores (ingresos y gastos)
 
+W04 - Semana 4 WoW2021-w04.pbix | Drill Trough (obtención de detalles)
+
+http://www.workout-wednesday.com/pbi-2021-w04/
+
+***Lectura recomendada: https://docs.microsoft.com/es-es/power-bi/guidance/dax-selectedvalue
+
+- Página Detalle School (duplicado página Resumen) ***Tip: Ocultar páginas de detalle (navegación vía Drill Trough)
+- Agregar fondo de página (Conference.png)
+- Visualización: Gráficos de barras por School (cambio eje Y y título del gráfico)
+- Medidas DAX: Conference seleccionada y Año seleccionado. ***Tip: Ocultar medida año para selección múltiple o sin selección. https://www.sqlbi.com/articles/using-the-selectedvalue-function-in-dax/
+- Agrupar medidas DAX en carpeta 0 - Filtros ***Tip: "Un sitio para cada cosa y cada cosa en su sitio". Prueba a tener un modelo con muchas medidas 🚀
+- Visualización: Tarjetas (Conference y Año)
+
+NOTA: Requerimiento NO sincronizar slicer año entre página resumen y página detalle
+***¿Por qué NO hacerlo?
+Mostrar el slicer año en la página detalle resulta confuso al no disponer de sincronización. El usuario puede ver la página detalle filtrada por uno o varios años y el slicer año seguiría mostrando "Todas". Ver página "Detalle School" del informe
+La sincronización del slicer año proporcionaría al usuario informacion del año o años seleccionados en la página detalle, evitando la necesidad de la medida DAX año seleccionado, reduciendo el número de consultas y visuales mostrados en la página y mejorando el rendimiento del informe. Ver página "Detalle School Propuesta"
+
+NOTA: Gráficos de líneas en página detalle
+En caso de navegar a la página detalle filtrando por 1 sólo año, los gráficos de líneas pueden quedar reducidos a un único punto de datos, mostrando la misma información que las tarjetas. Recomendación: Analizar las necesidades/operativa de los usuarios
