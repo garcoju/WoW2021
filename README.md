@@ -45,10 +45,12 @@ http://www.workout-wednesday.com/pbi-2021-w04/
 ***Lectura recomendada: https://docs.microsoft.com/es-es/power-bi/guidance/dax-selectedvalue
 
 - Página Detalle School (duplicado página Resumen) 
-- Acción botón "Back". Modificar acción por defecto "Atrás" por "Navegación de páginas" = 'Resumen' 
+- Página Requerimientos (oculta)
+- Botón "Información". Modificar acción por defecto "Atrás" por "Navegación de páginas" = 'Requerimientos'. Cambiar color al presionar. Añadir texto descriptivo "tooltip"
+- Acción botón "Back". Modificar acción por defecto "Atrás" por "Navegación de páginas" = 'Resumen'. Cambiar color al presionar. Añadir texto descriptivo "tooltip" 
 - Agregar fondo de página (Conference.png)
 - Visualización: Gráficos de barras por School (cambio eje Y y título del gráfico)
-- Medidas DAX: Conference seleccionada y Año seleccionado. ***Tip: Ocultar medida año para selección múltiple o sin selección. https://www.sqlbi.com/articles/using-the-selectedvalue-function-in-dax/
+- Medidas DAX: Conference seleccionada y Año seleccionado. ***Tip: Ocultar medida para selección múltiple o sin selección. https://www.sqlbi.com/articles/using-the-selectedvalue-function-in-dax/
 - Agrupar medidas DAX en carpeta 0 - Filtros ***Tip: "Un sitio para cada cosa y cada cosa en su sitio". Prueba a tener un modelo con muchas medidas 🚀
 - Visualización: Tarjetas (Conference y Año)
 - Visualización: Botón "Back" 🏛 ***🎩: Utilizar emojis para mostrar en lugar de texto en los botones. Combinación teclas Windows + "."
